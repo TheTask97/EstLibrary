@@ -1,0 +1,20 @@
+1.CSV bzw Buch, Buchkopie, Kunde
+2.Bücher: isbn, title, authors, year, city, publisher, edition
+Buchkopie: id, book, shelfLocation, addedToLibrary (Date), lent (boolean), lentDate
+Kunden: Vor- und Nachname, Straße und Hausnummer, Stadt, Postleitzahl
+3.ja
+4.Autoren, Titel, ISBN, Ausgabe: Titel, Autoren, ISBN, ID, Regalstandort,
+Ausleihestatus, Ausleihedatum
+5.Nein
+6.Ja
+7.Beitrag bezahlt, nicht mehr als eine Buchkopie des gleichen Buches, nicht mehr als fünf Buchkopien gleichzeitig ausgeliehen
+8.wird extern behandelt
+9.21 Tage
+10.nein
+11.ja
+12.Suche, Rückgabe und Ausleihe einer Buchkopie
+13.nein, das System ist nur für Büchereimitarbeiter gedacht
+14.nein
+15.ja, über Ziffern oder Buchstaben
+
+volle Punktzahl
